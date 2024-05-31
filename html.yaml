@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: XSS test
+  description: <meta http-equiv = "refresh" content = "1; url = https://www.qries.com" />
+  version: production
