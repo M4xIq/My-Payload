@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: HTML Inj
+  description: "<img src="https://www.w3schools.com/tags/img_girl.jpg">"
+  version: production
